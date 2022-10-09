@@ -7,6 +7,7 @@ public class SingleBookstoreApplication {
 
 		System.out.println("project Strated");
 		System.out.println("project Strated");
+		System.out.println("new project started");
 	}
 
 }
