@@ -10,6 +10,8 @@ public class SingleBookstoreApplication {
 		System.out.println("new project started");
 		System.out.println("project Strated");
 		System.out.println("new project started");
+		System.out.println("project Strated");
+		System.out.println("new project started");
 	}
 
 }
