@@ -6,6 +6,7 @@ public class SingleBookstoreApplication {
 		// TODO Auto-generated method stub
 
 		System.out.println("project Strated");
+		System.out.println("project Strated");
 	}
 
 }
